@@ -1,0 +1,2 @@
+# egitim
+promptmuhendisligi
